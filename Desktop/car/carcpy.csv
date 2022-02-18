@@ -1,0 +1,57 @@
+Car,Model,fuel,Volume,Weight,Power,GSG
+Toyota,Aygo,95 octane,1000,850,69,88
+Mitsubishi,Space Start,diesel,1200,850,82,100
+Skoda,Citigo,diesel,1000,805,69,86
+Fiat,500,diesel,900,790,43,70
+Mini,Cooper,89 octane,1500,1000,155,125
+VW,Up!,petrol,1000,810,69,89
+Skoda,Fabia,petrol,1400,890,103,115
+Mercedes,A-Class,91 octane,1500,1000,155,125
+Ford,Fiesta,gasoline,1500,1100,169,126
+Audi,A1,98 octane,1600,1300,191,130
+Hyundai,I20,gasoline,1000,820,74,94
+Suzuki,Swift,petrol,1400,900,104,116
+Ford,Fiesta,gasoline,1000,810,70,90
+Honda,Civic,92 octane ,1600,1330,195,131
+Hundai,I30,diesel,1600,1390,198,132
+Opel,Astra,diesel,1600,1420,200,133
+BMW,1,petrol,1600,1480,210,134
+Mazda,3,petrol,2100,2000,265,152
+Skoda,Rapid,diesel,1600,1510,216,135
+Ford,Focus,petrol,2000,1800,240,142
+Ford,Mondeo,diesel,1600,1550,219,136
+Opel,Insignia,petrol,2000,1830,243,143
+Mercedes,C-Class,diesel,2100,2023,271,154
+Skoda,Octavia,diesel,1600,1600,222,137
+Volvo,S60,petrol,2000,1850,247,144
+Mercedes,CLA,gasoline,1500,1200,175,127
+Audi,A4,gasoline,2000,1870,249,145
+Audi,A6,diesel,2000,1880,250,146
+Volvo,V70,gasoline,1600,1620,228,138
+BMW,5,98 octane,2000,1900,253,147
+Mercedes,E-Class,diesel,2100,2050,282,155
+Volvo,XC70,petrol,2000,1930,258,148
+Ford,B-Max,petrol,1600,1650,231,139
+BMW,2,diesel,1600,1700,233,140
+Opel,Zafira,petrol,1600,1799,239,141
+Mercedes,SLK,petrol,2200,2066,289,152
+BMW,BMW 218i,gasoline,2000,1970,260,149
+BMW,BMW 320i,Petrol,1400,920,111,115
+BMW,BMW 330i,Petrol,1400,935,118,149
+BMW,BMW 530i,Petrol,2100,2078,300,158
+BMW,BMW 630i,Petrol,2100,2100,320,160
+BMW,BMW 730Li,Premium,1500,1220,181,128
+BMW,BMW 740Li,Premium,1500,1270,190,129
+BMW,BMW M3,petrol,900,795,48,75
+BMW,BMW X1,Gasoline,1000,815,73,93
+BMW,BMW X2,Gasoline,1200,850,81,103
+BMW,BMW X3,Gasoline,1400,945,125,122
+BMW,BMW X4,Premium,1200,860,90,105
+BMW,BMW X5,Octane Premium,1200,870,92,107
+BMW,BMW X6,gasoline,1200,880,95,109
+BMW,BMW X7,gasoline,1200,890,100,112
+Mazda,CX3,gasoline,1060,815,73,98
+Mazda,CX5,petrol,3000,2200,347,180
+Mazda,CX9,petrol,1000,820,75,95
+Mazda,Mazda2,Octane,1400,970,135,124
+Mazda,Mazda6,Octane,2000,1990,262,150
